@@ -1,0 +1,35 @@
+Conversation with Nailashehzadi (ID: 09b9ac79-0cef-43f2-bd98-b7a4850bff56)
+Date: 2025-04-29 03:18:52
+══════════════════════════════════════════════════
+
+Q: Your email address for product information
+A: naila01@gmail.com
+
+Q: Best phone number to reach you
+A: 03009795515
+
+Q: Your age
+A: 21
+
+Q: Your country
+A: Pakistan
+
+Q: Products or services you're interested in
+A: Cloud
+
+Q: Preferred budget range
+[47m[30m A) Under $1000
+ B) $1000-$5000
+ C) Above $5000 [0m
+A: A
+
+Q: Purchase timeline
+[47m[30m A) Immediately
+ B) Within 1 month
+ C) Within 3 months
+ D) Just exploring [0m
+A: B
+
+Q: How did you hear about us
+A: Google
+

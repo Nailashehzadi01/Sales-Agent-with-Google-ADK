@@ -1,0 +1,9 @@
+Sales Lead Analytics Summary
+Generated on: 2025-04-29 03:18:35
+==================================================
+
+Total Leads: 4
+Most Active Source: Google
+Average Customer Age: 21 years
+Popular Interest Area: Cloud
+Common Budget Range: Under $1000

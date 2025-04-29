@@ -1,0 +1,10 @@
+lead_id,name,age,country,interest,status,last_updated
+2ffbe1ac-519c-4d06-9259-156f01e19cb3,Alice Johnson,35.0,Canada,AI Consulting,secured,2025-04-29 01:38:31.488476
+6d1fd04a-50b2-4003-b9a7-f91eb4993c7e,Bob Smith,,,,no_response,2025-04-29 01:38:32.020354
+4dd6ba3d-b50e-4a9d-8f78-634de5c777dd,Charlie Brown,28.0,,,in_progress,2025-04-29 01:38:32.566656
+34e2db2e-96db-4280-b1bd-da662f7cce1f,Alice Johnson,35.0,Canada,AI Consulting,secured,2025-04-29 01:45:28.720573
+6d12a1e9-675d-4df4-8309-0e2929d847f0,Bob Smith,,,,no_response,2025-04-29 01:45:29.258979
+1783a935-5dcf-4d2b-aeec-bda61c120c3b,Charlie Brown,28.0,,,in_progress,2025-04-29 01:45:29.812397
+ea9f270f-5fcb-43a7-8c97-de16ca76d205,Alice Johnson,35.0,Canada,AI Consulting,secured,2025-04-29 02:17:20.058085
+fbf37194-4566-42c4-96f6-23dd89c6d79d,Bob Smith,,,,no_response,2025-04-29 02:17:20.592355
+aae31f82-bd1b-433e-a5d9-cba645f29410,Charlie Brown,28,,,in_progress,2025-04-29 02:17:21.132124
